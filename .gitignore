@@ -1,3 +1,10 @@
+# =========================
+# Operating System Files
+# =========================
+
+# Windows
+# =========================
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
@@ -14,10 +21,6 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 
-# =========================
-# Operating System Files
-# =========================
-
 # OSX
 # =========================
 
@@ -26,7 +29,8 @@ $RECYCLE.BIN/
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
@@ -41,3 +45,25 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+
+# =========================
+# Visual Studio Files
+# =========================
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
